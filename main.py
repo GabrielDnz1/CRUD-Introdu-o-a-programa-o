@@ -287,7 +287,7 @@ def menu_usuario(usuario):
             limpar_console()
         else:
             limpar_console()
-            print("Opcao Invalida!")
+            print("Opcao Invalida.")
             time.sleep(3)
 
 def menu_hub(usuario):
