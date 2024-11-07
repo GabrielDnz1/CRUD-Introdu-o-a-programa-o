@@ -1,0 +1,40 @@
+[
+    {
+        "nome": "Gabriel",
+        "senha": "Gabriel",
+        "Planejamento": [
+            {
+                "atividade": "Atividade de Ingles",
+                "prioridade": "Alta",
+                "descricao": "Fazer Glossario",
+                "data_de_inicio": "25/11/2024",
+                "data_de_fim": "26/11/2024",
+                "horario": "12h45"
+            },
+            {
+                "atividade": "Atividade de Portugues",
+                "prioridade": "Media",
+                "descricao": "Ler livro",
+                "data_de_inicio": "12/12/2024",
+                "data_de_fim": "13/12/2024",
+                "horario": "12h45"
+            },
+            {
+                "atividade": "Jogar bola",
+                "prioridade": "Baixa",
+                "descricao": "Jogar futebol sabado",
+                "data_de_inicio": "12/10/2024",
+                "data_de_fim": "12/10/2024",
+                "horario": "16h00"
+            },
+            {
+                "atividade": "Teste Final",
+                "prioridade": "Alta",
+                "descricao": "Teste de Funcionalidade",
+                "data_de_inicio": "07/11/2024",
+                "data_de_fim": "07/11/2024",
+                "horario": "14h52"
+            }
+        ]
+    }
+]
